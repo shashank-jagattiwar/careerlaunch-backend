@@ -1,0 +1,26 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Java / Maven
+target/
+*.class
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.*
+
+# Spring local configuration
+application-local.properties
+application-local.yml
+
+# Node
+node_modules/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
